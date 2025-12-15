@@ -1,0 +1,11 @@
+{
+  "r2": 0.974330555555555,
+  "feature_importances": {
+    "Attendance_Percentage": 0.19934148369679522,
+    "Study_Hours_Per_Day": 0.12147314423540853,
+    "Sleep_Hours": 0.11998689418732335,
+    "Stress_Level": 0.33446480068293766,
+    "Extracurricular_Hours": 0.05208169238935205,
+    "Previous_Sem_GPA": 0.17265198480818328
+  }
+}
